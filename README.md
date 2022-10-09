@@ -13,7 +13,8 @@ Any comments, suggestions? [Let us know!](https://github.com/quilloughbee/awesom
 
 ## Displays, Tickers, LED
 
-- [BTC E-ink Ticker](https://github.com/btc-ticker/btc-ticker) - bitcoin-ticker is a E-ink ticker that shows usefull information about bitcoin
+- [BTC E-ink Ticker](https://github.com/btc-ticker/btc-ticker) - bitcoin-ticker is a E-ink ticker that shows useful information about bitcoin
+- [Bitcoin Kindle Display](https://d11n.net/kindle-status-display.html) - Bitcoin Status on an old Kindle
 
 ## Nodes
 
