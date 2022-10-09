@@ -11,14 +11,19 @@ Any comments, suggestions? [Let us know!](https://github.com/quilloughbee/awesom
 
 - [Contents](#contents)
 
-## Displays, Tickers, LED
+## 3D Printing
 
-- [BTC E-ink Ticker](https://github.com/btc-ticker/btc-ticker) - bitcoin-ticker is a E-ink ticker that shows useful information about bitcoin
+- [HODLITEMS](https://hodlitems.com/) - hodlitems are bitcoin enthusiasts who want to share their passion for 3D printing with the world
+
+## Displays, LED, Tickers
+
+- [BitcoinPriceLED](https://github.com/Egge7/BitcoinPriceLED) - LED-lamp that represents the current Bitcoin price trend 
+- [BTC E-ink Ticker](https://github.com/btc-ticker/btc-ticker) - bitcoin-ticker is a E-ink ticker that shows usefull information about bitcoin
 - [Bitcoin Kindle Display](https://d11n.net/kindle-status-display.html) - Bitcoin Status on an old Kindle
 
 ## Nodes
 
-- [Citadel](https://github.com/runcitadel/citadel) - allows you to run your own Bitcoin Lightning node and personal server.
+- [Citadel](https://github.com/runcitadel/citadel) - allows you to run your own Bitcoin Lightning node and personal server
 
 ## Lightning
 
@@ -27,22 +32,26 @@ Any comments, suggestions? [Let us know!](https://github.com/quilloughbee/awesom
 - [bitcoinSwitch](https://github.com/lnbits/bitcoinSwitch) - turn things on with Bitcoin
 - [LNPoS](https://github.com/lnbits/LNPoS) - Free and open-source bitcoin point-of-sale
 
+## Telegram Bots
+
+- [Einundzwanzig Bot](https://github.com/Einundzwanzig-Podcast/einundzwanzigbot) - Einundzwanzig Community Bot
+
 ## Podcasts
 
 ### Community
 
-- [Einundzwanzig, der Bitcoin Podcast](https://einundzwanzig.space/) - Toximalistisches Infotainment für bullishe Bitcoiner.
-- [Pleb's Taverne](https://anchor.fm/plebs-taverne) - Der Bitcoin Stammtisch für toxische Bitcoin Plebs und die, die es noch werden.
+- [Einundzwanzig, der Bitcoin Podcast](https://einundzwanzig.space/) - Toximalistisches Infotainment für bullishe Bitcoiner
+- [Pleb's Taverne](https://anchor.fm/plebs-taverne) - Der Bitcoin Stammtisch für toxische Bitcoin Plebs und die, die es noch werden
 
 ### Creators
 
-- []()
+- [Was Bitcoin bringt](wasbitcoinbringt.com/) - Der Bitcoin-Podcast mit Niko Jilch
 
 **[⬆ back to top](#contents)**
 
 ## Contributors
 
-This repo exists thanks to all the [plebs](https://github.com/quilloughbee/awesome-pleb-projects/graphs/contributors) who contribute.
+This repo exists thanks to all the [plebs](https://github.com/quilloughbee/awesome-pleb-projects/graphs/contributors) who contribute
 
 
 ## License
