@@ -11,14 +11,19 @@ Any comments, suggestions? [Let us know!](https://github.com/quilloughbee/awesom
 
 - [Contents](#contents)
 
-## Tools
+## Displays, Tickers, LED
 
 - [BTC E-ink Ticker](https://github.com/btc-ticker/btc-ticker) - bitcoin-ticker is a E-ink ticker that shows usefull information about bitcoin
+
+## Nodes
+
+- [Citadel](https://github.com/runcitadel/citadel) - allows you to run your own Bitcoin Lightning node and personal server.
 
 ## Lightning
 
 ### Hardware
 
+- [bitcoinSwitch](https://github.com/lnbits/bitcoinSwitch) - turn things on with Bitcoin
 - [LNPoS](https://github.com/lnbits/LNPoS) - Free and open-source bitcoin point-of-sale
 
 ## Podcasts
