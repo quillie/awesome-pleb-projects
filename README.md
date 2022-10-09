@@ -82,8 +82,11 @@ Any comments, suggestions? [Let us know!](https://github.com/quilloughbee/awesom
 
 ## Contributors
 
-This repo exists thanks to all the [plebs](https://github.com/quilloughbee/awesome-pleb-projects/graphs/contributors) who contribute
+This repo exists thanks to all the [plebs](https://github.com/quilloughbee/awesome-pleb-projects/graphs/contributors) who contribute.
 
+## Value-4-Value
+
+quillie's tip jar: touchyaddress01@walletofsatoshi.com
 
 ## License
 
