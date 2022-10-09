@@ -15,6 +15,10 @@ Any comments, suggestions? [Let us know!](https://github.com/quilloughbee/awesom
 
 - [HODLITEMS](https://hodlitems.com/) - hodlitems are bitcoin enthusiasts who want to share their passion for 3D printing with the world
 
+## Chain
+
+- [python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib) - This Python3 library provides an easy interface to the bitcoin data structures and protocol
+
 ## Displays, LED, Tickers
 
 - [BitcoinPriceLED](https://github.com/Egge7/BitcoinPriceLED) - LED-lamp that represents the current Bitcoin price trend 
@@ -24,17 +28,44 @@ Any comments, suggestions? [Let us know!](https://github.com/quilloughbee/awesom
 ## Nodes
 
 - [Citadel](https://github.com/runcitadel/citadel) - allows you to run your own Bitcoin Lightning node and personal server
+- [Raspiblitz](https://github.com/rootzoll/raspiblitz) - Build your own Lightning & Bitcoin Fullnode on a RaspberryPi with a nice Display
+
+## Learning Material
+
+- [bitcoin-tutorials](https://github.com/openoms/bitcoin-tutorials)
 
 ## Lightning
+
+### Misc
+
+- [Alby](https://github.com/getAlby/lightning-browser-extension) - A browser extension to bring the Bitcoin Lightning Network to the browser
+- [lnproxy](https://github.com/lnproxy/lnproxy) - lnproxy takes a bolt 11 invoice and generates a “wrapped” invoice that can be settled if and only if the original invoice is settled
+- [Tallycoin Connect](https://github.com/djbooth007/tallycoin_connect) - Install Tallycoin Connect on a bitcoin node to allow for the retrieval of lightning invoices via Tallycoin. LND required.
+- [TARO](https://github.com/lightninglabs/taro) - Taro Daemon tarod implements the Taro protocol for issuing assets on the Bitcoin blockchain
 
 ### Hardware
 
 - [bitcoinSwitch](https://github.com/lnbits/bitcoinSwitch) - turn things on with Bitcoin
 - [LNPoS](https://github.com/lnbits/LNPoS) - Free and open-source bitcoin point-of-sale
+- [LN-TinyPOS](https://github.com/ccadic/LN-TinyPOS) - Small Lightning Network Tiny POS System By @sulfuroid
+
+### Wallets
+
+- [BlueWallet](https://github.com/BlueWallet/BlueWallet) - Thin Bitcoin Wallet. Built with React Native and Electrum.
+- [Lightning Address](https://github.com/andrerfneves/lightning-address) - The Lightning Address is an Internet Identifier that allows anyone to send you Bitcoin over the Lightning Network
+- [Zeus](https://github.com/ZeusLN/zeus) - Zeus is a mobile Bitcoin/Lightning node manager and wallet application for LND, Core Lightning, and Eclair
 
 ## Telegram Bots
 
 - [Einundzwanzig Bot](https://github.com/Einundzwanzig-Podcast/einundzwanzigbot) - Einundzwanzig Community Bot
+
+## Companies & Organizations
+
+- [Alby](https://github.com/getAlby)
+- [European Bitcoiners](https://github.com/European-Bitcoiners)
+- [Lightning Labs](https://github.com/lightninglabs)
+- [lnbits](https://github.com/lnbits)
+
 
 ## Podcasts
 
