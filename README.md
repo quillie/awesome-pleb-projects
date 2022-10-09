@@ -19,6 +19,7 @@ Any comments, suggestions? [Let us know!](https://github.com/quilloughbee/awesom
 
 - [BitcoinPriceLED](https://github.com/Egge7/BitcoinPriceLED) - LED-lamp that represents the current Bitcoin price trend 
 - [BTC E-ink Ticker](https://github.com/btc-ticker/btc-ticker) - bitcoin-ticker is a E-ink ticker that shows usefull information about bitcoin
+- [Bitcoin Kindle Display](https://d11n.net/kindle-status-display.html) - Bitcoin Status on an old Kindle
 
 
 ## Nodes
