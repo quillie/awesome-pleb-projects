@@ -19,6 +19,10 @@ Any comments, suggestions? [Let us know!](https://github.com/quilloughbee/awesom
 
 - [python-bitcoinlib](https://github.com/petertodd/python-bitcoinlib) - This Python3 library provides an easy interface to the bitcoin data structures and protocol
 
+## Content Creation
+
+- [Bitcoin Plugins for Elgato Streamdecks](https://github.com/quilloughbee/streamdeck-bitcoin-plugins)
+
 ## Displays, LED, Tickers
 
 - [BitcoinPriceLED](https://github.com/Egge7/BitcoinPriceLED) - LED-lamp that represents the current Bitcoin price trend 
@@ -87,7 +91,7 @@ This repo exists thanks to all the [plebs](https://github.com/quilloughbee/aweso
 
 ## Value-4-Value
 
-quillie's tip jar: touchyaddress01@walletofsatoshi.com
+quillie's tip jar: quillie@600.wtf 
 
 ## License
 
